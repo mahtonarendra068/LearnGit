@@ -3,3 +3,11 @@ hey i am learning git and github
 this file is created for learning the git init to complete preocess of git and github
 
 now i edit this
+
+now i created a new branch and i add this repo on github page 
+
+process of uploading repo 
+ 1.git add
+ 2.git commit -m "msg"
+ 3.git push 
+ lets try it 
